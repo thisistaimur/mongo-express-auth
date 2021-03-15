@@ -1,12 +1,6 @@
 # auth-backend
 This tutorial teaches how to create authentication for a user using nodejs and mongoDB. 
 
-I have shown how Authentication can be achieved using nodejs and mongoDB in my series entitled: "Authentication with Nodejs and mongoDB". Check them out below:
-
-1. [Part 1](https://dev.to/ebereplenty/authentication-with-nodejs-and-mongodb-part-1-10pn)
-2. [Part 2](https://dev.to/ebereplenty/authentication-with-nodejs-and-mongodb-part-2-1hg9)
-3. [Part 3](https://dev.to/ebereplenty/authentication-with-nodejs-and-mongodb-part-3-3mic)
-
 ## Dependences
 - [Express](https://www.npmjs.com/package/express)
 - [Node](http://nodejs.org/)
